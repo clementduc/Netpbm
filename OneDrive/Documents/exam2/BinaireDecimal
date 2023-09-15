@@ -1,0 +1,5 @@
+func BinaireDecimal(binaire string) int {
+	for i := 0; i < len(binaire); i++ {
+		
+	}
+}
